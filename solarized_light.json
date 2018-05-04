@@ -1,17 +1,20 @@
 {
-  "name": "Solarized Light",
-  "constants": {
-    "mainTintColor": "#268bd2",
-    "mainBackgroundColor": "#fdf6e3",
-    "mainTextColor": "#657b83",
-    "navBarColor": "#eee8d5",
-    "mainDimColor": "#eee8d5",
-    "navBarTextColor": "#268bd2",
-    "plainCellBorderColor": "#eee8d5",
-    "selectedBackgroundColor": "#eee8d5",
-    "composeBorderColor": "#eee8d5"
+  name: "Midnight",
+  constants: {
+    mainTintColor: "#fffdff",
+    mainBackgroundColor: "#171925",
+    mainTextColor: "#bbbdcb",
+    navBarColor: "#171925",
+    mainDimColor: "#363b53",
+    navBarTextColor: "#fffdff",
+    plainCellBorderColor: "#1d1f2f",
+    selectedBackgroundColor: "#292b3a",
+    composeBorderColor: "#1b1b1b"
   },
-  "rules": {
+
+  rules: {
+
   },
-  "statusBar": "dark-content"
+
+  statusBar: "light-content"
 }
